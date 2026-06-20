@@ -34,3 +34,5 @@ Live demos and write-ups at **[ajay-krishna.com](https://ajay-krishna.com)**.
 ### 📌 Go deeper
 
 The full portfolio, with interactive prototypes and case studies, lives at **[ajay-krishna.com](https://ajay-krishna.com)**. Find me on **[LinkedIn](https://www.linkedin.com/in/ajaykrishna1)** to talk banking, payments, and AI product.
+
+<!-- profile -->
