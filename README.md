@@ -27,6 +27,7 @@ Live demos and write-ups at **[ajay-krishna.com](https://ajay-krishna.com)**.
 - 15+ years in Banking IT at top-tier EU banks: UniCredit, Nordea, GE Capital / Bank BPH.
 - Hands-on with card rails earlier in my career (ISO 8583 authorization, clearing, settlement on VisionPLUS).
 - Operating record: 36% improvement in regulatory-reporting SLA at Nordea, 99% reduction in regulatory incidents via a Splunk monitoring framework.
+- 🎓 B.E. Electronics & Communication Engineering, First Class with Distinction, Visvesvaraya Technological University. Certified SAFe® Scrum Master.
 
 ---
 
