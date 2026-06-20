@@ -15,7 +15,7 @@ Prototypes that sit at the intersection of banking domain and AI product. All bu
 |---------|------------|
 | **[Multi-Bank Open Banking TPP](https://github.com/ajaykrishnaptr/bank-connectivity)** | PSD2 aggregator across 5 European banks (Berlin Group), mTLS / OAuth / HTTP Signatures. A three-tier GenAI categorizer cut unclassified transactions ~80% on an evaluation harness. |
 | **[Digital Euro: PSP Operations Console](https://digital-euro-console.vercel.app)** | A bank/PSP-side console for folding the digital euro into an existing payment estate: holding-limit and waterfall engine, ISO 20022 settlement over DESP/TARGET, compliance, phased roadmap. |
-| **[Open Finance Data: B2B Use-Case Suite](https://mc-open-finance-data.vercel.app)** | An illustrative Open Finance Data prototype: 11 B2B use cases (account verification, income and affordability, spending insights, MCC normalisation) on a synthetic-bank foundation. |
+| **[Open Finance Data: B2B Use-Case Suite](https://mc-open-finance-data.vercel.app/console/)** | An illustrative Open Finance Data prototype: 11 B2B use cases (account verification, income and affordability, spending insights, MCC normalisation) on a synthetic-bank foundation. |
 
 Live demos and write-ups at **[ajay-krishna.com](https://ajay-krishna.com)**.
 
